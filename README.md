@@ -22,3 +22,4 @@ The objective of this project were to:
 ## Usage
 
 To run locally, first install the dependencies by running the `npm install` command. Then run the command `npm start` to start the development server. This will start the development server and open the application in your default web browser.
+F
