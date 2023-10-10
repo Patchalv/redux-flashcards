@@ -11,6 +11,7 @@ The objective of this project were to:
 - with useDispatch() dispatch actions to the store to update rendering; ('react-redux')
 - understand the view => middleware => Action (dispatch) => view Redux workflow
 
+See it live: https://cc-redux-flashcards.netlify.app/
 
 ## Technologies Used
 
